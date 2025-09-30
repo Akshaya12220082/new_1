@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aksha/OneDrive/Desktop/MLPIPELINE/ine.mlflow/0/models/m-3ca76b1657b94104814dc0d799cd5394/artifacts
+creation_timestamp: 1759217966215
+experiment_id: '0'
+last_updated_timestamp: 1759217972345
+model_id: m-3ca76b1657b94104814dc0d799cd5394
+model_type: null
+name: model
+source_run_id: ce84196b524b4cdb97fe6130155c3b45
+status: 2
+status_message: null

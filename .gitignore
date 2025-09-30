@@ -1,0 +1,13 @@
+# Ignore everything outside project
+*.pdf
+*.zip
+*.docx
+*.xlsx
+*.lnk
+*.ini
+
+# Ignore venv
+venv/
+
+# Ignore system files
+desktop.ini
