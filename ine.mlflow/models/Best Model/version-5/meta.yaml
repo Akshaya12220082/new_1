@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1759223865274
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1759223865274
+metrics: null
+model_id: m-6f51bf93a05748008b77bc4f92e779b9
+name: Best Model
+params: null
+run_id: b1e13a32371f42b0b65e5afa88f262f9
+run_link: null
+source: models:/m-6f51bf93a05748008b77bc4f92e779b9
+status: READY
+status_message: null
+storage_location: file:///C:/Users/aksha/OneDrive/Desktop/MLPIPELINE/ine.mlflow/0/models/m-6f51bf93a05748008b77bc4f92e779b9/artifacts
+user_id: null
+version: 5
